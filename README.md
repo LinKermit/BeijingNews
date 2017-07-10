@@ -3,7 +3,7 @@ BeijingNews
 北京新闻
 随便记记吧
 ----
-1、欢迎界面完成，主界面框架。
+1、欢迎界面完成，主界面框架。/<br>
 2、底部按钮切换页面 ，viewpager预加载
 3、使用xUtils，volley完成json数据请求。Gson解析和手动解析。
 4、左侧菜单SlidingMenu_library，现在用自带的DrawerLayout
