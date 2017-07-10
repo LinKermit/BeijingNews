@@ -1,0 +1,1 @@
+include ':app', ':SlidingMenu_library', ':xutils', ':JPushExample(592065)', ':PhotoView_library', ':okhttputils'
