@@ -14,12 +14,3 @@ BeijingNews
 9、图片的三级缓存原理 ， 文本数据本地缓存 。极光推送的使用。图片请求框架Picasso Glide<br>
 10 PhotoView okhttp（郭神封装） ShareSDK分享  <br>
 
-主页截图
---
-![](https://github.com/LinKermit/BeijingNews/raw/master/screenshot/新闻主页.png)
-
-组图
-![](https://github.com/LinKermit/BeijingNews/raw/master/screenshot/组图.png)
-
-详情界面
-![](https://github.com/LinKermit/BeijingNews/raw/master/screenshot/详情界面.png)
